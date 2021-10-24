@@ -9,7 +9,7 @@ Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB
 
 <tr>
 <td>
-A collection of <i>Code Files</i> used in lectures, quizzes, and assignments for <a href="https://www.coursera.org/learn/advanced-matlab-programming?specialization=matlab-programming-engineers-scientists">Mastering Programming with MATLAB</a>.
+A collection of <i>Code Files</i> used in lectures, quizzes, and assignments for <a href="https://www.coursera.org/learn/matlab-image-processing">Introduction to Data, Signal, and Image Analysis with MATLAB</a>.
 I took this online course on Coursera platform during September-October, 2021. (<a href="https://www.coursera.org/account/accomplishments/certificate/EAAHRSKXQR7A">Certificate of Completion</a>)
 </td>
 </tr>
@@ -67,4 +67,4 @@ Simply run the script `Final_project_script_3.m`, which is the final version of 
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/hmhuang0501/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository. 
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB/compare) or an [issue](https://github.com/hmhuang0501/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB/issues/new) in this repository. 
