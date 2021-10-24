@@ -56,7 +56,7 @@ When someone spreads any combination of *quarters*, *nickels*, and *dimes* on th
 3. Perform k-means clustering of features for an unsupervised learning coin-type classifier, sum up the total value of coins, and visualize the results
 
 #### How to run the program?
-Simply run the script `Final_project_script_3.m`, which is the final version of the implementation to solve the problem. The output should look identical to the image above. 
+Simply run the script [`Final_project_script_3.m`](./Final_Project/Final_project_script_3.m), which is the final version of the implementation to solve the problem. The output should look identical to the image above. 
 
 ---
 
