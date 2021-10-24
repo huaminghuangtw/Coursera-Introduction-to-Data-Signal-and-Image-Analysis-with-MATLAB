@@ -9,7 +9,7 @@ Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB
 
 <tr>
 <td>
-A collection of <i>Code Files</i> used in lectures, quizzes, and assignments for <a href="https://www.coursera.org/learn/matlab-image-processing">Introduction to Data, Signal, and Image Analysis with MATLAB</a>.
+A collection of <i>Code Example Files</i>, <i>Programming Assignments</i> and <i>Final Project</i> for <a href="https://www.coursera.org/learn/matlab-image-processing">Introduction to Data, Signal, and Image Analysis with MATLAB</a>.
 I took this online course on Coursera platform during September-October, 2021. (<a href="https://www.coursera.org/account/accomplishments/certificate/EAAHRSKXQR7A">Certificate of Completion</a>)
 </td>
 </tr>
