@@ -1,7 +1,12 @@
 Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB
 ===================================================================
 
-<table>
+<h1 align="center">
+  <br>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/C6WLL6S9ETED"><img src="https://user-images.githubusercontent.com/43208378/138588622-b638d120-819b-4af5-b470-625ecb7d04fe.png" width="750"></a>
+  <br>
+</h1>
+
 <tr>
 <td>
 A collection of <i>Code Files</i> used in lectures, quizzes, and assignments for <a href="https://www.coursera.org/learn/advanced-matlab-programming?specialization=matlab-programming-engineers-scientists">Mastering Programming with MATLAB</a>.
@@ -28,8 +33,8 @@ Instructor: [Jack Noble](https://www.coursera.org/instructor/jacknoble)
 
 - For file names starting with `Example`: code examples that are demonstrated in the lectures
 - For file names starting with `Quiz`: scripts and answers for quizzes
-- For file names starting with `<function-name>` (e.g., ): function definition required for completing the assignments
-- For file names starting with `Script`: scripts that are used to call the corresponding functions in the assignments
+- For file names starting with `<function-name>` (e.g., [`EstimationErrorPlot.m`](./1-Data_Analysis/6-Data_Prediction/EstimationErrorPlot.m)): function definition required for completing the assignments
+- For file names starting with `Script` (e.g., [`Script_EstimationErrorPlot.m`](./1-Data_Analysis/6-Data_Prediction/Script_EstimationErrorPlot.m): scripts that are used to call the corresponding functions in the assignments
 
 ---
 
@@ -41,17 +46,17 @@ When someone spreads any combination of *quarters*, *nickels*, and *dimes* on th
 (1) localize the coins, (2) classify each coin as a quarter, nickel, or dime, (3) add up the total value of the coins shown in the image.
 
 <p align="center">
-  <img width="550" src="https://user-images.githubusercontent.com/43208378/133851704-f66f1b1a-3933-4ed8-bb36-a9be46748bce.png">
+  <img width="550" src="https://user-images.githubusercontent.com/43208378/138589111-2280989e-2db0-4267-9620-12e43ab7b4db.png">
 </p>
 
-#### Steps to achieve the goal:
+#### Steps to achieve the goal
 
 1. Localize the centroid of each coin 
 2. Measure features for each coin using a "bank" of matching filters 
 3. Perform k-means clustering of features for an unsupervised learning coin-type classifier, sum up the total value of coins, and visualize the results
 
 #### How to run the program?
-Simply run `Final_project_script_3.m`, which is the final version of the implementation to solve the problem. The output should look identical to the image above. 
+Simply run the script `Final_project_script_3.m`, which is the final version of the implementation to solve the problem. The output should look identical to the image above. 
 
 ---
 
