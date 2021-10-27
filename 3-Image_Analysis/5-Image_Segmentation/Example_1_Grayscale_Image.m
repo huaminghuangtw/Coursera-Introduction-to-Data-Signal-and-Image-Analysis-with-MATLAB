@@ -12,7 +12,7 @@ threshold = otsuthresh(hst)
 otsuthresh(hst)*255
 hold on;
 axis tight;
-plot(threshold*255*[1,1], ylim, 'r');
+xline(threshold*255, '-.r', 'Threshold'); % Or: plot(threshold*255*[1,1], ylim, '-.r');
 
 % Thresholding
 subplot(2,5,6);
