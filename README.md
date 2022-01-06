@@ -1,11 +1,15 @@
 Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB
 ===================================================================
 
-<h1 align="center">
+<p align="center">
   <br>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/C6WLL6S9ETED"><img src="https://user-images.githubusercontent.com/43208378/138588622-b638d120-819b-4af5-b470-625ecb7d04fe.png" width="750"></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/C6WLL6S9ETED"><img src="https://user-images.githubusercontent.com/43208378/138588622-b638d120-819b-4af5-b470-625ecb7d04fe.png" width=750></a>
   <br>
-</h1>
+</p>
+
+---
+
+Instructor: [Jack Noble](https://www.coursera.org/instructor/jacknoble)
 
 <table>
 <tr>
@@ -16,7 +20,7 @@ I took this online course on Coursera platform during September-October, 2021. (
 </tr>
 </table>
 
-> DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding!😃
+> DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding! 😃
 
 ---
 
@@ -26,11 +30,9 @@ It provides an introduction on how to use MATLAB for data, signal, and image ana
 how to perform data visualization, especially for high dimensional datasets; how to perform image processing and analysis methods, including image filtering and image segmentation; 
 and how to perform common signal analysis tasks, including filter design and frequency analysis.
 
-Instructor: [Jack Noble](https://www.coursera.org/instructor/jacknoble)
-
 ---
 
-### Naming Convention
+### Naming convention
 
 - For file names starting with `Example`: code examples that are demonstrated in the lectures
 - For file names starting with `Quiz`: scripts and answers for quizzes
@@ -39,7 +41,7 @@ Instructor: [Jack Noble](https://www.coursera.org/instructor/jacknoble)
 
 ---
 
-### Final Project
+### Final project
 
 In the final project of this course, I developed an image analysis-based solution for counting coin change for a bank.
 A camera is placed above the bank teller's countertop which will photograph coins placed on the countertop.
@@ -61,7 +63,7 @@ Simply run the script [`Final_project_script_3.m`](./Final_Project/Final_project
 
 ---
 
-### Recommended Further Readings
+### Recommended further readings
 - For Signal Analysis: *Oppenheim, Alan V.; Willsky, Alan S.; Nawab, Syed Hamid (1997): Signals and systems. 2. ed.*
 - For Image Analysis: *Šonka, Milan; Hlaváč, Václav; Boyle, Roger (2015): Image processing, analysis, and machine vision. 4. ed.*
 
