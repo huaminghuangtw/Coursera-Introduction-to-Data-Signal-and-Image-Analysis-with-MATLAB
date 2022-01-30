@@ -22,8 +22,6 @@ I took this online course on Coursera platform during September-October, 2021. (
 
 > DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding!😃
 
----
-
 ### Overview
 This course is the last part of the specialization [MATLAB Programming for Engineers and Scientists Specialization](https://www.coursera.org/specializations/matlab-programming-engineers-scientists), offered by Vanderbilt University.
 It provides an introduction on how to use MATLAB for data, signal, and image analysis. After completing the course, learners will understand how machine learning methods can be used in MATLAB for data classification and prediction; 
@@ -70,4 +68,4 @@ Simply run the script [`Final_project_script_3.m`](./Final_Project/Final_project
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB/compare) or an [issue](https://github.com/hmhuang0501/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB/issues/new) in this repository. 
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/huaminghuangtw/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB/compare) or an [issue](https://github.com/huaminghuangtw/Coursera-Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB/issues/new) in this repository. 
